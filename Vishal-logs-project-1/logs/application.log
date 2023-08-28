@@ -1,0 +1,66 @@
+Starting VishalLogsProject1Application using Java 17.0.4.1 with PID 31224 (C:\Users\mohd.nooruddin\Documents\Learning\Java\Spring Vishal\Vishal-logs-project-1\target\classes started by mohd.nooruddin in C:\Users\mohd.nooruddin\Documents\Learning\Java\Spring Vishal\Vishal-logs-project-1)
+No active profile set, falling back to 1 default profile: "default"
+Tomcat initialized with port(s): 8092 (http)
+Initializing ProtocolHandler ["http-nio-8092"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/10.1.12]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1707 ms
+Starting ProtocolHandler ["http-nio-8092"]
+Tomcat started on port(s): 8092 (http) with context path ''
+Started VishalLogsProject1Application in 3.224 seconds (process running for 6.23)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 0 ms
+User Action registerError
+Iterations 5
+Product mobile
+Method Name fnRegister  Session Id web-1693251500577 Status=Error  Error Registering user with email testEmail64@gmail.com
+Method Name fnRegister  Session Id web-1693251500577 Status=Error  Error Registering user with email testEmail79@gmail.com
+Method Name fnRegister  Session Id web-1693251500577 Status=Error  Error Registering user with email testEmail36@gmail.com
+Method Name fnRegister  Session Id web-1693251500578 Status=Error  Error Registering user with email testEmail67@gmail.com
+Method Name fnRegister  Session Id web-1693251500578 Status=Error  Error Registering user with email testEmail25@gmail.com
+Could not detect default configuration classes for test class [com.log.logs.VishalLogsProject1ApplicationTests]: VishalLogsProject1ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.log.logs.VishalLogsProject1Application for test class com.log.logs.VishalLogsProject1ApplicationTests
+Starting VishalLogsProject1ApplicationTests using Java 17.0.7 with PID 14096 (started by mohd.nooruddin in C:\Users\mohd.nooruddin\Documents\Learning\Java\Spring Vishal\Vishal-logs-project-1)
+No active profile set, falling back to 1 default profile: "default"
+Started VishalLogsProject1ApplicationTests in 3.341 seconds (process running for 6.902)
+Application shutdown requested.
+Pausing ProtocolHandler ["http-nio-8092"]
+Stopping service [Tomcat]
+Destroying Spring FrameworkServlet 'dispatcherServlet'
+Stopping ProtocolHandler ["http-nio-8092"]
+Destroying ProtocolHandler ["http-nio-8092"]
+Starting VishalLogsProject1Application using Java 17.0.4.1 with PID 24248 (C:\Users\mohd.nooruddin\Documents\Learning\Java\Spring Vishal\Vishal-logs-project-1\target\classes started by mohd.nooruddin in C:\Users\mohd.nooruddin\Documents\Learning\Java\Spring Vishal\Vishal-logs-project-1)
+No active profile set, falling back to 1 default profile: "default"
+Tomcat initialized with port(s): 8092 (http)
+Initializing ProtocolHandler ["http-nio-8092"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/10.1.12]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1989 ms
+Starting ProtocolHandler ["http-nio-8092"]
+Tomcat started on port(s): 8092 (http) with context path ''
+Started VishalLogsProject1Application in 3.555 seconds (process running for 6.425)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 2 ms
+User Action registerError
+Iterations 5
+Product mobile
+Method Name fnRegister  Session Id web-1693252138998 Status=Error  Error Registering user with email testEmail65@gmail.com
+Method Name fnRegister  Session Id web-1693252138999 Status=Error  Error Registering user with email testEmail48@gmail.com
+Method Name fnRegister  Session Id web-1693252139000 Status=Error  Error Registering user with email testEmail55@gmail.com
+Method Name fnRegister  Session Id web-1693252139000 Status=Error  Error Registering user with email testEmail69@gmail.com
+Method Name fnRegister  Session Id web-1693252139001 Status=Error  Error Registering user with email testEmail86@gmail.com
+Could not detect default configuration classes for test class [com.log.logs.VishalLogsProject1ApplicationTests]: VishalLogsProject1ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+Found @SpringBootConfiguration com.log.logs.VishalLogsProject1Application for test class com.log.logs.VishalLogsProject1ApplicationTests
+Starting VishalLogsProject1ApplicationTests using Java 17.0.7 with PID 500 (started by mohd.nooruddin in C:\Users\mohd.nooruddin\Documents\Learning\Java\Spring Vishal\Vishal-logs-project-1)
+No active profile set, falling back to 1 default profile: "default"
+Started VishalLogsProject1ApplicationTests in 3.896 seconds (process running for 7.39)
+Application shutdown requested.
+Pausing ProtocolHandler ["http-nio-8092"]
+Stopping service [Tomcat]
+Destroying Spring FrameworkServlet 'dispatcherServlet'
+Stopping ProtocolHandler ["http-nio-8092"]
+Destroying ProtocolHandler ["http-nio-8092"]
